@@ -1,0 +1,13 @@
+.role{
+    color: teal;
+    font-weight: 700;
+}
+
+.section{
+    display: flex;
+    justify-content: space-around;
+}
+
+.section h1:hover{
+    cursor: pointer;
+}
